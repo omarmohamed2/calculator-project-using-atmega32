@@ -6,7 +6,7 @@
  */ 
 
 #include <avr/io.h>
-
+int x ;
 
 int main(void)
 {
