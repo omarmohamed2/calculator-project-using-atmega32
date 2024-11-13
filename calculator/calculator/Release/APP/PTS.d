@@ -1,0 +1,1 @@
+APP/PTS.d APP/PTS.o: ../APP/PTS.c
